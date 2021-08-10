@@ -1,6 +1,7 @@
 1.0.4
-* Fix Qr icon not showing on Eload
 ===================
+* Fix Qr icon not showing on Eload
+
 
 1.0.3
 ===================
